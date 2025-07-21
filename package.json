@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.9"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "winston": "^3.17.0"
+  }
+}
